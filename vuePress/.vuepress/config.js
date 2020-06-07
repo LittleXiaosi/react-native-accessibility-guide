@@ -1,6 +1,6 @@
 module.exports = {
     base: '/react-native-accessibility-guide/',
-    title: 'react-native-accessibility-guide',
+    title: 'react-native无障碍指南',
     markdown: {
         toc: {
             includeLevel: [2, 3, 4, 5],
@@ -13,7 +13,9 @@ module.exports = {
     plugins: ['@vuepress/active-header-links'],
     themeConfig: {
         sidebar: [
-            '/'
+            '/',
+            'react-native-accessibility-attr-test',
+            'react-native-accessibility-bug-list'
         ],
         sidebarDepth: 3,
     }

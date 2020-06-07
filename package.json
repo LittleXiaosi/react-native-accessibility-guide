@@ -12,8 +12,8 @@
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "d:d": "vuepress dev docs",
-    "d:b": "vuepress build docs"
+    "d:d": "vuepress dev vuePress",
+    "d:b": "vuepress build vuePress --dest ./docs/"
   },
   "repository": {
     "type": "git",
