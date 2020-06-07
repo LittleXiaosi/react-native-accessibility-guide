@@ -1,0 +1,35 @@
+{
+  "name": "react-native-accessibility-guide",
+  "version": "1.0.0",
+  "description": "RN的无障碍实践指南",
+  "main": "index.js",
+  "dependencies": {
+    "markdown-it-plantuml": "^1.4.1",
+    "vue": "^2.6.11"
+  },
+  "devDependencies": {
+    "vuepress": "^1.5.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "d:d": "vuepress dev docs",
+    "d:b": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LittleXiaosi/react-native-accessibility-guide.git"
+  },
+  "keywords": [
+    "react-native",
+    "rn",
+    "RN",
+    "无障碍",
+    "Accessibility"
+  ],
+  "author": "xiaosiyan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LittleXiaosi/react-native-accessibility-guide/issues"
+  },
+  "homepage": "https://github.com/LittleXiaosi/react-native-accessibility-guide#readme"
+}
